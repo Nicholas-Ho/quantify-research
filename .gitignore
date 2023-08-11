@@ -1,6 +1,8 @@
 *.secrets
 *.csv
 
+data/store/*
+
 ### Jupyter ###
 *.bundle.*
 lib/
